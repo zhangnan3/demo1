@@ -1,0 +1,16 @@
+.login{
+  width: 100px;
+  height: 200px;
+  background-color: #ccc;
+  float: left;
+
+}
+h1{
+  display: block;
+  width: 100px;
+  line-height: 50px;
+  background-colorxt: pink;
+  color: #fff;
+  text-align: center;
+  /*margin-top: 200px;*/
+}
